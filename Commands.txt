@@ -1,0 +1,2 @@
+/purchase 10 Golf 9
+format: /purchase [qty] [description]
