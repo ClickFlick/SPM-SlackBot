@@ -2,7 +2,7 @@
 A slack bot built using Slack API and Express.js
 
 ## Local development/running
- - When running this project you will need a slack app. Create on from slack's website and create a config.js file
+ - When running this project you will need a slack app. Create one from slack's website and create a config.js file
  - The contents of the config.js file should be similar to
  `module.exports = {
   botToken: "bot token for your app",
