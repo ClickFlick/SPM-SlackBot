@@ -12,7 +12,7 @@ A slack bot built using Slack API and Express.js
  - Setup [ngrok](https://dashboard.ngrok.com/get-started/setup)
  - Run `ngrok http 9999`
  - Use the forwarding link on your slack app like such
- ![AppLinkExample](slack-app-link.png)
+ ![AppLinkExample](slack-app-link.png) `https://.......eu.ngrok.io/purchase`
  - Run `npm install`
  - Run `node purchase-slash-command.js`
  - As long as your app is connected the app should be functional now!
